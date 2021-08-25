@@ -1,4 +1,5 @@
-# start_aws_amplify
+# About
+This is AWS amplify project for simple CRUD operation in TODO app.
 
 ## Getting Started
 
